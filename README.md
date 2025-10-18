@@ -44,7 +44,7 @@ gallery.html
 
   <footer>
     <h1>&copy; DESIGNED BY:</h1>
-    <h2> NKK</h2>
+    <h2>Mohammed Ameer F</h2>
   </footer>
 
   <script src="script.js"></script>
@@ -114,9 +114,7 @@ h2 {
 }
 ```
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot 2025-10-10 165658" src="https://github.com/user-attachments/assets/67442ec7-02bd-4cfa-8278-21886e9ba5cf" />
-
-
+![alt text](<Screenshot 2025-10-18 083540.png>)
 
 
 
