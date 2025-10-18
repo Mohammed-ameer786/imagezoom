@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex08 imagezoom
 ## Date: 10-10-2025
 
 ## AIM
